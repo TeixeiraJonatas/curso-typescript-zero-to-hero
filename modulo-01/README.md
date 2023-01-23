@@ -12,4 +12,3 @@ Aqui vocês encontrarão todos os vídeos e os exemplos desenvolvidos durante o 
 | **[Vídeo 04](https://youtu.be/iYXzT08sX5Y)** | Vídeo 04 - Entendendo um pouco mais o arquivo tsconfig.json |
 | **[Vídeo 05](https://youtu.be/iTCRgdEyq0k)** | Vídeo 05 - Demo: Primeiro Programa em TypeScript – Hello World |
 | **[Vídeo 06](https://youtu.be/VIYnya9DUxg)** | Vídeo 06 - E por que usar o TypeScript? E, próximos passos! |
-teste
