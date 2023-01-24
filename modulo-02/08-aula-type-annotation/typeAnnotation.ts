@@ -11,26 +11,21 @@
 export { };
 
 // ==> Variáveis [Type Annotations]
-let nome: string = 'Glaucia Lemos';
+let nome: string = 'Jonatas Santos Teixeira';
 console.log(nome);
-
+console.log('simples '+'----------------');
 // ==> Arrays [Type Annotations]
-let animais: string[] = ['Elefante', 'Cachorro', 'Gato', 'Panda', 'Girafa'];
+let animais: string[] = ['cachorro', 'elefante', 'gato', 'tartaruga'];
 console.log(animais);
-
+console.log('Arrays '+'----------------');
 // ==> Objetos [Type Annotations]
 let carro: {
   nome: string;
   ano: number;
-  preco: number;
+  preco: number
 };
 
-carro = { nome: 'Toyota Yaris Sedan XS', ano: 2019, preco: 80000 };
+carro = {nome:'Toyota Corolla', ano: 2010, preco: 49000};
 console.log(carro);
 
 // ==> Functions [Type Annotation]
-function multiplicarNumero(num1: number, num2: number) {
-  return num1 * num2;
-}
-
-console.log(multiplicarNumero(2, 5));
